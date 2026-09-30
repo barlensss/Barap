@@ -1,0 +1,8 @@
+{
+  "tool_name": "BARA DDOS",
+  "version": "1.0",
+  "author": "Bara",
+  "dev": "aurelia",
+  "default_thread": 800,
+  "verif_required": true
+}
