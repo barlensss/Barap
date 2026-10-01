@@ -1,8 +1,9 @@
 {
-  "tool_name": "BARA DDOS",
-  "version": "1.0",
-  "author": "Bara",
-  "dev": "aurelia",
-  "default_thread": 800,
+  "tool_name": "SURYA DDOS",
+  "version": "2.0",
+  "author": "Zero",
+  "dev": "Ciel",
+  "max_thread": 1500,
+  "vectors": ["https", "http", "slowloris", "rudy", "multi"],
   "verif_required": true
 }
